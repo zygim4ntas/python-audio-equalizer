@@ -59,7 +59,7 @@ python audio_equalizer.py
 
 ## Dependencies
 
-- Python 3.13+
+- **Python 3.13+**
 
 - `numpy`
 
