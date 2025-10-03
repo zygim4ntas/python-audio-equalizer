@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS specific
+.DS_Store
+
+# Optional: exclude audio files unless needed
+*.wav
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
