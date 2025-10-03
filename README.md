@@ -1,5 +1,5 @@
 # python-audio-equalizer
-A sleek, real-time audio equalizer for WAV files built in Python 3.13. Adjust bass, mid, and treble using a modern GUI, preview waveforms, and enjoy threaded audio playback. Beginner project
+A sleek, real-time audio equalizer for WAV files built in Python 3.13. Adjust bass, mid, and treble using a modern GUI, preview waveforms, and enjoy threaded audio playback.
 
 # 🎚️ Python Audio Equalizer (Modern GUI)
 
@@ -99,3 +99,8 @@ pip install -r requirements.txt
 
 This project is licensed under the **MIT License**.
 
+---
+
+## Note
+
+This is a **beginner** project, meaning it is far from being perfect and there are probably several issues that I may not be aware of.
